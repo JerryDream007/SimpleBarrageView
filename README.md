@@ -2,7 +2,7 @@
 简易的弹幕
 
 效果图:
-![image](https://github.com/308823810/SimpleBarrageView/blob/GIF/LoopTips.gif )   
+![image](https://github.com/308823810/SimpleBarrageView/blob/masters/LoopTips.gif )   
 
 
 使用方法:
